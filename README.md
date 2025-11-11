@@ -1,2 +1,2 @@
-# main
+# PandiluC
 the main repository
